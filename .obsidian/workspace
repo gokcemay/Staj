@@ -7,8 +7,12 @@
         "id": "1c57d801f62c7057",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Staj.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Staj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "1c57d801f62c7057",
   "lastOpenFiles": [
-    "Staj/Dikey ve Yatay geçiş.md",
     "Staj.md",
+    "Staj/Dikey ve Yatay geçiş.md",
     "Staj/Staj Komisyonu.md"
   ]
 }
