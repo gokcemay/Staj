@@ -1,0 +1,2 @@
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu’nun 5/b maddesi gereğince zorunlu staja tabi tüm öğrencilere “İş Kazası ve Meslek Hastalığı Sigortası” yapılması ve sigorta primlerinin de Üniversitemizce ödenmesi gerekmektedir. Bu nedenle, staj yapacak öğrenciler, sigortalarının yapılabilmesi için kendilerinden istenen belgeleri, belirtilen süre ve şekilde eksiksiz olarak
+Bölüm Sekreterliğine teslim etmek zorundadırlar.

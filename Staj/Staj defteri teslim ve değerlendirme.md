@@ -1,0 +1,4 @@
+* Yapılan staj sonunda hazırlanan staj defteri stajın bitimini izleyen yarıyılın ilk haftası içinde staj komisyonunca ilan edilen şekilde ilgili Staj Komisyonu üyesine teslim edilir.
+* Staj defterlerinin teslimini takip eden 2 (iki) ay içinde defterler staj değerlendirme komisyonunca incelenir. Sonuçlar Bölüm Staj Panosundan ve Bölüm internet sitesinden ilan edilir. Stajlar “Başarılı”, “Başarısız” ve “Kısmen Başarılı” olarak değerlendirilir. Başarısızlık durumunda staj tekrarlanır. Kısmen Başarısızlık durumunda başarısız olunan süre kadar staj tekrar edilir.
+* Staj değerlendirme komisyonu öğrencilerden staj hakkında sözlü sunum ya da defterin tekrar yazılmasını isteyebilir.
+* Unutmayın staj defteriniz **Staj yönergesindeki değerlendirme kriterlerine göre** incelenir. Yönergedeki kriterleri okuyunuz.

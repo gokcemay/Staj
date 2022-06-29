@@ -1,0 +1,4 @@
+İlgili yarıyılda, herhangi bir derse kayıt yaptırmayan öğrenciler, (Güz ve Bahar) yarıyıl içinde Bölüm Başkanı’nın onayı ile staj yapabilirler. Bu kategorideki öğrenciler, en geç ekle-sil haftasını takip eden hafta içinde, ilgili döneme ait danışman imzalı ders kayıt formunun fotokopisi ile Bölüm Başkanlığına hitaben bir dilekçeyle başvurmaları gereklidir.
+
+a) Yaz okulunda ders alan öğrenciler Yaz Okulu süresince staj yapamazlar.
+b) Ardışık üç iş gününden (Cumartesi ve Pazar hariç) az olmamak şartıyla dersi olmayan öğrenciler bölüm staj komisyonlarının uygun görmesi halinde Güz ve Bahar Yarıyıllarında staj yapabilirler.

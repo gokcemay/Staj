@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "62b7dfbc96cc0760",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c57d801f62c7057",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "047a8169bc8be64f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c712fb42c4ab5567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65ab15b10910c13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32fd1fa00056005e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b0fa39fb1e8a16e",
+    "type": "split",
+    "children": [
+      {
+        "id": "176f9b805ff29145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf28f38c2f92fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c57d801f62c7057",
+  "lastOpenFiles": [
+    "Staj/Dikey ve Yatay geçiş.md",
+    "Staj.md",
+    "Staj/Staj Komisyonu.md"
+  ]
+}

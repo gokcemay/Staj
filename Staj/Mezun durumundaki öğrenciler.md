@@ -1,0 +1,1 @@
+Mezun durumundaki öğrencilerin staj defterleri, hafta içerisinde Cuma günü UZEM sistemi üzerinden kontrol edilerek değerlendirmeye alınmaktadır. Değerlendirme aşaması normal şartlarda 1 hafta, yoğunluğa bağlı olarak en fazla 15 gün sürmektedir. 

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "473eefe998965f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2fc549bf0378e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ulusal Staj Programı.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa47825c522ff3ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e23b48657e490b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125d181fa09aa950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c4d98c7e9302dd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "997b968afa0f5ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "43b18e3f6cc8ca6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd47e830f3c78c11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ulusal Staj Programı.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8d2fc549bf0378e2",
+  "lastOpenFiles": [
+    "Ulusal Staj Programı.md",
+    "Staj için gereken belgeler.md",
+    "Staja başlarken.md",
+    "Staj.md",
+    "SGK belgeleri.md",
+    "Mezun durumundaki öğrenciler.md",
+    "Staj defteri teslim ve değerlendirme.md",
+    "Staj defteri.md",
+    "Dikey ve Yatay geçiş.md",
+    "Staj türleri ve işletme seçimi.md"
+  ]
+}

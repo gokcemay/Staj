@@ -1,0 +1,1 @@
+Talaşsız İmalat (15 İş Günü): Kaynak, döküm, P.Ş.V. (Metal Şekillendirme), plastik enjeksiyon, vb. yöntemlerle imalat yapan işletmelerde yapılır.
